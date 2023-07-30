@@ -1,2 +1,3 @@
 # CPE009_TEZ_Program
-Final Project for CPE 009 Python (This is a by group project)
+T. E. Z. Program: The Information Manager App
+This is a final requirement for CPE 009 Python course (a by group project)
